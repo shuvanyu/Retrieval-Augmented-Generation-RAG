@@ -1,4 +1,4 @@
-# Retrieval Augmented Generation pipeline using pretrained LLM
+# Retrieval Augmented Generation pipeline using LLM
 Shuvadeep Saha
 
 This project showcases a Retrieval Augmented (RAG) pipeline using Gemini-7B-it LLM from HuggingFace. 

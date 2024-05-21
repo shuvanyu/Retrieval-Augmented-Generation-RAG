@@ -1,0 +1,14 @@
+unstructured
+pdfminer.six
+pillow-heif
+pdf2image
+unstructured-inference
+pytesseract
+pikepdf
+unstructured_pytesseract
+python-poppler
+poppler-utils
+tesseract-ocr
+sentence_transformers
+faiss-cpu
+accelerate
